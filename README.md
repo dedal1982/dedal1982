@@ -1,3 +1,2 @@
 ## by ALDm☭
-![Github stats](https://github-readme-stats.vercel.app/api?username=dedal1982)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=dedal1982)](https://github.com/dedal1982/github-profile-trophy)
