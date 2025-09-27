@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=dedal1982)](https://github.com/dedal1982/github-readme-activity-graph)
 <!--
 **dedal1982/dedal1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
